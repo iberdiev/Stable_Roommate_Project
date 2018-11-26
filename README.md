@@ -1,5 +1,4 @@
-# Stable_Roommate_Project
-Stable Roommate Matching Algorithm using Python.
+<h1> Stable Roommate Matching Algorithm using Python. </h1>
 This algorithm is a project work for completing Computer Science course at University of Central Asia (Naryn). https://www.ucentralasia.org/
 Algorithm takes data from the xlsx file, where each person has corresponded values. (e.g. we can make a survey, so they will answer for the questions by numbers).
 In order to apply Irving's Algorithm, we need to create a preference list for each individual, so it estimates sum of absolutes values of differences between each person, and then sorts the lists. More bigger this sum, roommates are more distinct, consequently less preferance of each other.
